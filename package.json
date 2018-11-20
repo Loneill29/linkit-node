@@ -1,0 +1,19 @@
+{
+  "name": "wisegui",
+  "version": "1.0.0",
+  "description": "A Reddit replica ",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "export NODE_ENV=test && jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loneill29/wisegui-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Loneill29/wisegui-node/issues"
+  },
+  "homepage": "https://github.com/Loneill29/wisegui-node#readme"
+}
